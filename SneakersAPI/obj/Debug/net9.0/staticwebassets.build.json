@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "Acmq+OXasLMTbzo3kjE9EbjLhKBiQG2ijRNSOLnTVo4=",
+  "Source": "SneakersAPI",
+  "BasePath": "_content/SneakersAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SneakersAPI\\wwwroot",
+      "Source": "SneakersAPI",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\1.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s3dkfifvi8",
+      "Integrity": "qNlTr1LNsSf8oEViMKWW96j+j6xzq17w0f+XaJvePfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\2.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehtta9v2qv",
+      "Integrity": "fkfFf6Pzjkip3FWbdH92zNlndg9cZ2Clvn1moN9K9V0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\3.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75rqf8sg6i",
+      "Integrity": "61pQnvLr41kKYM06zMGKRVGDcKrfhxpNCvyDMwQXm2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\4.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mncbq0dy19",
+      "Integrity": "0r7fRLXBEBARf3pzVmBRnAQQ6Lo4W7Y5u0ZfbvKpn+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\5.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dyprquly4k",
+      "Integrity": "JR4i6X/r6oM1Fo2Hq8uE/JrFB+ummODUHwsdjSpUd+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\6.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1c1fjvj2fq",
+      "Integrity": "gTMNBNcjUW1v9ua5pfSnIUJsV+pgdO9EgAEPaYUnp+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\7.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgt3tkly9d",
+      "Integrity": "65QsVpzR17oXDGkXCi84EgibxNxkAhNSjDMxZaT6pOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\8.jpg",
+      "SourceId": "SneakersAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\",
+      "BasePath": "_content/SneakersAPI",
+      "RelativePath": "8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8b2gkxwj4c",
+      "Integrity": "tOfP4RrBYjJqtRgD4QE2JDKotwU+4a/3G3Fk4SBC9dY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\8.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "1.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qNlTr1LNsSf8oEViMKWW96j+j6xzq17w0f+XaJvePfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qNlTr1LNsSf8oEViMKWW96j+j6xzq17w0f+XaJvePfI="
+        }
+      ]
+    },
+    {
+      "Route": "1.s3dkfifvi8.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qNlTr1LNsSf8oEViMKWW96j+j6xzq17w0f+XaJvePfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s3dkfifvi8"
+        },
+        {
+          "Name": "label",
+          "Value": "1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qNlTr1LNsSf8oEViMKWW96j+j6xzq17w0f+XaJvePfI="
+        }
+      ]
+    },
+    {
+      "Route": "2.ehtta9v2qv.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fkfFf6Pzjkip3FWbdH92zNlndg9cZ2Clvn1moN9K9V0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehtta9v2qv"
+        },
+        {
+          "Name": "label",
+          "Value": "2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fkfFf6Pzjkip3FWbdH92zNlndg9cZ2Clvn1moN9K9V0="
+        }
+      ]
+    },
+    {
+      "Route": "2.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fkfFf6Pzjkip3FWbdH92zNlndg9cZ2Clvn1moN9K9V0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fkfFf6Pzjkip3FWbdH92zNlndg9cZ2Clvn1moN9K9V0="
+        }
+      ]
+    },
+    {
+      "Route": "3.75rqf8sg6i.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61pQnvLr41kKYM06zMGKRVGDcKrfhxpNCvyDMwQXm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75rqf8sg6i"
+        },
+        {
+          "Name": "label",
+          "Value": "3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-61pQnvLr41kKYM06zMGKRVGDcKrfhxpNCvyDMwQXm2I="
+        }
+      ]
+    },
+    {
+      "Route": "3.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61pQnvLr41kKYM06zMGKRVGDcKrfhxpNCvyDMwQXm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-61pQnvLr41kKYM06zMGKRVGDcKrfhxpNCvyDMwQXm2I="
+        }
+      ]
+    },
+    {
+      "Route": "4.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0r7fRLXBEBARf3pzVmBRnAQQ6Lo4W7Y5u0ZfbvKpn+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0r7fRLXBEBARf3pzVmBRnAQQ6Lo4W7Y5u0ZfbvKpn+g="
+        }
+      ]
+    },
+    {
+      "Route": "4.mncbq0dy19.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0r7fRLXBEBARf3pzVmBRnAQQ6Lo4W7Y5u0ZfbvKpn+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mncbq0dy19"
+        },
+        {
+          "Name": "label",
+          "Value": "4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0r7fRLXBEBARf3pzVmBRnAQQ6Lo4W7Y5u0ZfbvKpn+g="
+        }
+      ]
+    },
+    {
+      "Route": "5.dyprquly4k.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JR4i6X/r6oM1Fo2Hq8uE/JrFB+ummODUHwsdjSpUd+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyprquly4k"
+        },
+        {
+          "Name": "label",
+          "Value": "5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JR4i6X/r6oM1Fo2Hq8uE/JrFB+ummODUHwsdjSpUd+Q="
+        }
+      ]
+    },
+    {
+      "Route": "5.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JR4i6X/r6oM1Fo2Hq8uE/JrFB+ummODUHwsdjSpUd+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JR4i6X/r6oM1Fo2Hq8uE/JrFB+ummODUHwsdjSpUd+Q="
+        }
+      ]
+    },
+    {
+      "Route": "6.1c1fjvj2fq.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTMNBNcjUW1v9ua5pfSnIUJsV+pgdO9EgAEPaYUnp+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1c1fjvj2fq"
+        },
+        {
+          "Name": "label",
+          "Value": "6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTMNBNcjUW1v9ua5pfSnIUJsV+pgdO9EgAEPaYUnp+k="
+        }
+      ]
+    },
+    {
+      "Route": "6.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTMNBNcjUW1v9ua5pfSnIUJsV+pgdO9EgAEPaYUnp+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTMNBNcjUW1v9ua5pfSnIUJsV+pgdO9EgAEPaYUnp+k="
+        }
+      ]
+    },
+    {
+      "Route": "7.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65QsVpzR17oXDGkXCi84EgibxNxkAhNSjDMxZaT6pOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-65QsVpzR17oXDGkXCi84EgibxNxkAhNSjDMxZaT6pOs="
+        }
+      ]
+    },
+    {
+      "Route": "7.rgt3tkly9d.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65QsVpzR17oXDGkXCi84EgibxNxkAhNSjDMxZaT6pOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgt3tkly9d"
+        },
+        {
+          "Name": "label",
+          "Value": "7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-65QsVpzR17oXDGkXCi84EgibxNxkAhNSjDMxZaT6pOs="
+        }
+      ]
+    },
+    {
+      "Route": "8.8b2gkxwj4c.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOfP4RrBYjJqtRgD4QE2JDKotwU+4a/3G3Fk4SBC9dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8b2gkxwj4c"
+        },
+        {
+          "Name": "label",
+          "Value": "8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOfP4RrBYjJqtRgD4QE2JDKotwU+4a/3G3Fk4SBC9dY="
+        }
+      ]
+    },
+    {
+      "Route": "8.jpg",
+      "AssetFile": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOfP4RrBYjJqtRgD4QE2JDKotwU+4a/3G3Fk4SBC9dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 15:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOfP4RrBYjJqtRgD4QE2JDKotwU+4a/3G3Fk4SBC9dY="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\2.jpg",
+      "PackagePath": "staticwebassets\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\3.jpg",
+      "PackagePath": "staticwebassets\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\4.jpg",
+      "PackagePath": "staticwebassets\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\5.jpg",
+      "PackagePath": "staticwebassets\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\6.jpg",
+      "PackagePath": "staticwebassets\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\7.jpg",
+      "PackagePath": "staticwebassets\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mamko\\OneDrive\\Документы\\Pet projects\\Sneakers\\SneakersAPI\\SneakersAPI\\wwwroot\\8.jpg",
+      "PackagePath": "staticwebassets\\8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SneakersAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SneakersAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SneakersAPI.props",
+      "PackagePath": "build\\SneakersAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SneakersAPI.props",
+      "PackagePath": "buildMultiTargeting\\SneakersAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SneakersAPI.props",
+      "PackagePath": "buildTransitive\\SneakersAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
